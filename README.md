@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekyadav20364" alt="vivekyadav20364" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/vivekmgs" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/vivekmgs?logo=twitter&style=for-the-badge" alt="https://twitter.com/vivekmgs" /></a> </p>
-
 - 💬 Ask me about **React JS,Node JS**
 
 - 📫 How to reach me **vivekmgs0321@gmail.com**
